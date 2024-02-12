@@ -1,4 +1,8 @@
+
 This is a eCommerce site called ProTech built using the MERN stack. It is a full-featured site with shopping cart and PayPal & credit/debit options for accepting payments.
+
+You can try out the site by visiting: https://protech-n1ul.onrender.com/
+
 
 ## Features
 
