@@ -3,7 +3,7 @@ This is a eCommerce site called ProTech built using the MERN stack. It is a full
 Features
 
 Full featured shopping cart
-Product reviews and ratings
+[] Product reviews and ratings
 Top products carousel
 Product pagination
 Product search feature
